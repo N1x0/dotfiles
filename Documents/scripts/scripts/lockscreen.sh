@@ -1,0 +1,1 @@
+/home/nb/.dotfiles/Documents/scripts/lockscreen.sh

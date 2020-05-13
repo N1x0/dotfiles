@@ -1,0 +1,19 @@
+output HDMI-1-1
+off
+output DP-1-2
+off
+output HDMI-1-2
+off
+output DP-1-3
+off
+output HDMI-1-3
+off
+output HDMI-0
+off
+output eDP-1-1
+off
+output DP-1-1
+crtc 4
+mode 1366x768
+pos 0x0
+rate 59.79
